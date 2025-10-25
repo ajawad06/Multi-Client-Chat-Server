@@ -20,6 +20,7 @@ A console-based chat application built in **Python** that allows multiple client
 ## 🛠️ Tech Stack
 - Python
 - Socket Programming
+- TCP
   
 ---
 
