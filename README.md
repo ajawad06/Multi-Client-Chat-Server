@@ -1,4 +1,4 @@
-# 🗨️ Multi-Client Chat Server 
+# 🗨️ Chat Application
 
 A console-based chat application built in **Python** that allows multiple clients to communicate simultaneously through a central **TCP server**.  
 
@@ -15,6 +15,12 @@ A console-based chat application built in **Python** that allows multiple client
   - 🔵 Blue → private message  
   - 🔴 Red → user left   
 
+---
+
+## 🛠️ Tech Stack
+- Python
+- Socket Programming
+  
 ---
 
 ## 🧩 Files
