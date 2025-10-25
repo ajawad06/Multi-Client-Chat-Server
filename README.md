@@ -1,19 +1,15 @@
-# 🗨️ Multi-Client Chat Server (Python)
+# 🗨️ Multi-Client Chat Server 
 
 A console-based chat application built in **Python** that allows multiple clients to communicate simultaneously through a central **TCP server**.  
-It supports:
-- **Broadcast messaging** (messages visible to all users)
-- **Private/unicast messaging** using `@username`
-- **Colored message formatting**
-- **Duplicate username detection**
-- **Join/leave notifications**
 
 ---
 
 ## 🚀 Features
-- 📡 Multi-threaded server to handle multiple clients concurrently  
-- 🔒 Unique usernames (prevents duplicates)  
-- 💬 Private messages using `@username <message>` syntax  
+- 📡 Multi-threaded server to handle multiple clients concurrently
+- 📢 Broadcast messaging
+- 💌 Private/unicast messaging using `@username`
+- 🔔 Join/leave notifications
+- 🔒 Unique usernames (prevents duplicates)    
 - 🌈 Color-coded terminal messages:
   - 🟩 Green → user joined  
   - 🔵 Blue → private message  
